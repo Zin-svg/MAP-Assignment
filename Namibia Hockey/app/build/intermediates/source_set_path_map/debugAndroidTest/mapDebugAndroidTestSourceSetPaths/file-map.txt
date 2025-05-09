@@ -1,0 +1,6 @@
+com.example.namibiahockey.test.app-core-1.6.1-0 C:\Users\abby1\.gradle\caches\8.10.2\transforms\16ef22b69b9abc5a53b7bed23f96c49c\transformed\core-1.6.1\res
+com.example.namibiahockey.test.app-tracing-1.2.0-1 C:\Users\abby1\.gradle\caches\8.10.2\transforms\b29c286d2ebd2ec584ca915b6d9b550e\transformed\tracing-1.2.0\res
+com.example.namibiahockey.test.app-androidTest-2 C:\Users\abby1\AndroidStudioProjects\NamibiaHockey\app\build\generated\res\resValues\androidTest\debug
+com.example.namibiahockey.test.app-mergeDebugAndroidTestResources-3 C:\Users\abby1\AndroidStudioProjects\NamibiaHockey\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.namibiahockey.test.app-mergeDebugAndroidTestResources-4 C:\Users\abby1\AndroidStudioProjects\NamibiaHockey\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.namibiahockey.test.app-debugAndroidTest-5 C:\Users\abby1\AndroidStudioProjects\NamibiaHockey\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
