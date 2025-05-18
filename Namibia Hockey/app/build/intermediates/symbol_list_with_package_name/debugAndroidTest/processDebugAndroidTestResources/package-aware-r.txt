@@ -1,3 +1,0 @@
-com.example.namibiahockey.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
